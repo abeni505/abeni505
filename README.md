@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abenezer M. Woldesenbet</h1>
 <h3 align="center">A passionate Software Engineering Student.</h3>
 <img align="right" alt="Coding" width="300" src="https://unsplash.com/photos/a-macbook-with-lines-of-code-on-its-screen-on-a-busy-desk-m_HRfLhgABo"/>
-
 - 🌱 I’m currently learning **Front end Web development with React**
 
 - 📫 How to reach me **abenezer.woldesenbet@gmail.com**
